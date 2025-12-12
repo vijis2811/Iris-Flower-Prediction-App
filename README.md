@@ -22,8 +22,8 @@ Option to view the dataset inside the app
 
 Project Structure
 project/
-│── app.py           
-│── README.md       
+-app.py           
+-README.md       
 
 Machine Learning Model
 
